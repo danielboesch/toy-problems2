@@ -7,7 +7,11 @@ class Palindrome extends Component {
     }
     render(){
         return(
-            <h1>Palindrome</h1>
+            <div>
+                
+
+                <h4>Palindrome</h4>
+            </div>
         )
     }
 }
